@@ -12,7 +12,7 @@ An end-to-end **NLP-based Machine Learning project** that classifies SMS/email m
 
 ## 🌐 Live Demo
 
-👉 **[https://spam-email-detection-by-aastha.streamlit.app/](YOUR_STREAMLIT_URL_HERE)**
+👉**[https://spam-email-detection-by-aastha.streamlit.app/](https://spam-email-detection-by-aastha.streamlit.app/)**
 
 ---
 
@@ -63,17 +63,16 @@ An end-to-end **NLP-based Machine Learning project** that classifies SMS/email m
 ## 📁 Project Structure
 
 ```
-Spam-Email-Detection/
+Aastha-Sharma07/Spam-Email-Detection
 │
-├── app.py                  # Streamlit web application
-├── spam_detector.pkl      # Trained & saved ML model
-├── spam.csv               # SMS Spam Collection dataset
-├── requirements.txt       # Python dependencies
-├── README.md              # Project documentation
-├── LICENSE
-│
-└── notebooks/
-    └── spam-email-detection.ipynb   # Notebook file
+├── 📄 README.md               
+├── 🐍 app.py                  
+├── 🤖 spam_detector.pkl       
+├── 📊 spam.csv                
+├── 📋 requirements.txt        
+├── 📄 LICENSE                 
+└── 📁 notebooks/
+    └── spam_email_detection.ipynb 
 ```
 
 ---
@@ -191,7 +190,8 @@ This project is licensed under the MIT License.
 ## 👤 Author
 
 **Aastha Sharma**
-
+- GitHub: [@Aastha-Sharma07](https://github.com/Aastha-Sharma07)
+- LinkedIn: [Aastha Sharma](https://www.linkedin.com/in/aastha-sharma-29280032a/)
 
 ---
 
