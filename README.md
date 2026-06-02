@@ -184,4 +184,3 @@ This project is licensed under the MIT License.
 
 ---
 
-*Built as an internship-level ML project demonstrating end-to-end NLP pipeline development, model evaluation, and web deployment.*
