@@ -12,13 +12,23 @@ An end-to-end **NLP-based Machine Learning project** that classifies SMS/email m
 
 ## 🌐 Live Demo
 
-👉 **[Click here to try the live app](YOUR_STREAMLIT_URL_HERE)**
+👉 **[https://spam-email-detection-by-aastha.streamlit.app/](YOUR_STREAMLIT_URL_HERE)**
 
 ---
 
 ## 📸 Screenshots
 
-> *(Add screenshots after deploying — drag images into this README on GitHub)*
+<img width="1919" height="966" alt="image" src="https://github.com/user-attachments/assets/cd45b2a8-2e0b-4156-bb27-7290aaab21a4" />
+
+<img width="1919" height="883" alt="image" src="https://github.com/user-attachments/assets/8be93d52-d52f-4c94-ac9d-05410a1d17b3" />
+<img width="1917" height="909" alt="image" src="https://github.com/user-attachments/assets/ea4b7251-cb08-48ce-b4e1-f5ddd288759e" />
+
+<img width="1908" height="954" alt="image" src="https://github.com/user-attachments/assets/34c10f64-4ed1-4818-af1e-a847d75c3a85" />
+<img width="1919" height="974" alt="image" src="https://github.com/user-attachments/assets/f77bdbb1-7524-4f5d-afb1-7c02e9708f55" />
+<img width="1919" height="939" alt="image" src="https://github.com/user-attachments/assets/c3685309-ee46-410c-ac8a-ec6f8f39506a" />
+
+
+
 
 ---
 
@@ -55,14 +65,15 @@ An end-to-end **NLP-based Machine Learning project** that classifies SMS/email m
 ```
 Spam-Email-Detection/
 │
-├── app.py                          # Streamlit web application
-├── spam_detector.pkl               # Trained & saved ML model
-├── spam.csv                        # SMS Spam Collection dataset
-├── requirements.txt                # Python dependencies
-├── README.md                       # Project documentation
-├── .gitignore                      # Git ignore rules
+├── app.py                  # Streamlit web application
+├── spam_detector.pkl      # Trained & saved ML model
+├── spam.csv               # SMS Spam Collection dataset
+├── requirements.txt       # Python dependencies
+├── README.md              # Project documentation
+├── LICENSE
+│
 └── notebooks/
-    └── spam_detection_kaggle.ipynb # Complete Kaggle notebook
+    └── spam-email-detection.ipynb   # Notebook file
 ```
 
 ---
